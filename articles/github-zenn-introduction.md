@@ -42,7 +42,7 @@ https://zenn.dev/zenn/articles/install-zenn-cli
 
 ![GitHubリポジトリからデプロイ2](https://storage.googleapis.com/zenn-user-upload/ae4a941d31e0b337fb3800ee.png)
 
-例えば、デフォルトでは「 main 」ブランチに、ファイルを psuh すれば、投稿ができるようになっているはずです。
+例えば、デフォルトでは「 main 」ブランチに、ファイルを push すれば、投稿ができるようになっているはずです。
 
 逆に、Zenn の Web ページからは、もう投稿ができなくなっているので、注意してください。
 
